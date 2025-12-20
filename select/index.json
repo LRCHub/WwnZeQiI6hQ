@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "老人と海",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-20T10:26:30.571158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "老人と海",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_老人と海_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "老人と海",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/02_老人と海_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "老人と海",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/03_老人と海_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "老人と海",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_老人と海_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "老人と海",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_老人と海_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "老人と海",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_老人と海_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "老人と海 - The Old Man and the Sea",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_老人と海_-_The_Old_Man_and_the_Sea_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "老人と海",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_老人と海_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "老人と海",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_老人と海_ヨルシカ.txt"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-# Yorushika – 老人と海
+# Yorushika – 老人と海 - The Old Man and the Sea
 
 > **歌詞登録ステータス：同期歌詞あり**
 
